@@ -302,8 +302,10 @@ ul.tips {
   margin: 0 0 30px 15px; /* LTR */
 }
 #site-name {
-  font-size: 1.821em;
-  color: #686868;
+  font-family:Impact, Charcoal, sans-serif;
+  font-size: 2em;
+  /*color: #686868;*/
+  color: #B42B2B;
   line-height: 1;
 }
 h1#site-name {
